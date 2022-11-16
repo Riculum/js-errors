@@ -1,7 +1,7 @@
 {
   "name": "@riculum/js-errors",
   "version": "1.0.0",
-  "description": "A simple middleware to handle HTTP errors",
+  "description": "A simple middleware for handling HTTP errors",
   "main": "index.js",
   "type": "module",
   "keywords": [
@@ -14,5 +14,9 @@
     "middleware"
   ],
   "author": "riculum",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Riculum/js-errors/issues"
+  },
+  "homepage": "https://github.com/Riculum/js-errors#readme"
 }
