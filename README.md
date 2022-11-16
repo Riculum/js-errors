@@ -8,7 +8,7 @@ npm install @riculum/js-errors
 
 ## Example
 
-Have a look at [examples](https://github.com/Riculum/js-errors)
+Have a look at [examples](https://github.com/Riculum/js-errors/tree/main/example)
 
 **RouterMiddleware**
 ```
